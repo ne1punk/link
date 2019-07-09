@@ -1,12 +1,12 @@
 [{
   "embed": {
-    "title": "Список спонсоров РЕФЛЕКСИИ.",
-    "description": "1. `Пусто`",
-    "url": "https://patreon.com/kyber",
-    "color": 6071775,
+    "title": "Список спонсоров РЕФЛЕКСИИ",
+    "description": "1. `Пусто`\n2. `Пусто`\n3. `Пусто`\n4. `Пусто`\n5. `Пусто`",
+    "url": "sponsors",
+    "color": 16223655,
     "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/smashtopia/images/c/c9/Insert_Image_Here.jpg/revision/latest?cb=20170827054712",
-      "text": "footer text"
+      "icon_url": "https://smart-car.tech/carobd/newfile/images/features-icon/update.png",
+      "text": "Список обновляется"
     },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/smashtopia/images/c/c9/Insert_Image_Here.jpg/revision/latest?cb=20170827054712"
@@ -18,8 +18,8 @@
     },
     "fields": [
       {
-        "name": "🤔",
-        "value": "This command lists the sponsors of this project on [**Patreon**](https://patreon.com/kyber)"
+        "name": "Реквизиты",
+        "value": "Сбербанк 4276 6719 5719 6253\nКиви Кошелек +7 919 943 90 03"
       }
     ]
   }
